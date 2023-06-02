@@ -1,0 +1,9 @@
+langchain
+duckdb
+chromadb
+openai
+flask
+pypdf
+tiktoken
+pycryptodome
+flask-cors
